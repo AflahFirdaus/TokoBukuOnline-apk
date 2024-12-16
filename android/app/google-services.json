@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638839410015",
+    "project_id": "tokobuku-project",
+    "storage_bucket": "tokobuku-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638839410015:android:a5d597fe16588f04befaea",
+        "android_client_info": {
+          "package_name": "com.example.tokobukuonline_apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5-rZbbM27c2qBJFOXHa9UD3m9AidaVT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
